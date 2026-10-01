@@ -213,6 +213,323 @@
    "width": 900,
    "height": 450,
    "bytes": 58798
+  },
+  {
+   "id": "013-atget-cafe",
+   "file": "pictures/013-atget-cafe.jpg",
+   "kind": "shelf",
+   "caption": "A caf\u00e9 terrace on the Avenue de la Grande-Arm\u00e9e, Paris, 1924\u201325",
+   "credit": "Eug\u00e8ne Atget. The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "shelf",
+    "cafe",
+    "paris",
+    "morning",
+    "chairs",
+    "street",
+    "quiet"
+   ],
+   "width": 900,
+   "height": 704,
+   "bytes": 114726
+  },
+  {
+   "id": "014-atget-biche",
+   "file": "pictures/014-atget-biche.jpg",
+   "kind": "shelf",
+   "caption": "The shop front 'A la Biche', rue Geoffroy-Saint-Hilaire, Paris, 1922",
+   "credit": "Eug\u00e8ne Atget. The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "shelf",
+    "shop",
+    "paris",
+    "door",
+    "street",
+    "craft",
+    "morning"
+   ],
+   "width": 719,
+   "height": 900,
+   "bytes": 101278
+  },
+  {
+   "id": "015-atget-gobelins",
+   "file": "pictures/015-atget-gobelins.jpg",
+   "kind": "shelf",
+   "caption": "A tailor's shop window on the Avenue des Gobelins, Paris, 1925",
+   "credit": "Eug\u00e8ne Atget. The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "shelf",
+    "shop",
+    "wardrobe",
+    "paris",
+    "window",
+    "suits",
+    "reflection"
+   ],
+   "width": 716,
+   "height": 900,
+   "bytes": 129836
+  },
+  {
+   "id": "016-atget-eclipse",
+   "file": "pictures/016-atget-eclipse.jpg",
+   "kind": "shelf",
+   "caption": "Parisians watching the solar eclipse from the Place de la Bastille, April 1912",
+   "credit": "Eug\u00e8ne Atget. The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "shelf",
+    "crowd",
+    "sky",
+    "paris",
+    "looking up",
+    "wonder",
+    "street"
+   ],
+   "width": 900,
+   "height": 687,
+   "bytes": 95211
+  },
+  {
+   "id": "017-hamburg-harbor",
+   "file": "pictures/017-hamburg-harbor.jpg",
+   "kind": "shelf",
+   "caption": "Sailing ships in the Hansa harbour, Hamburg, about 1890\u20131900",
+   "credit": "Photochrom print, Detroit Publishing Co. Library of Congress, public domain",
+   "tags": [
+    "shelf",
+    "harbor",
+    "ships",
+    "sea",
+    "travel",
+    "morning",
+    "departure"
+   ],
+   "width": 900,
+   "height": 678,
+   "bytes": 121157
+  },
+  {
+   "id": "018-fifth-avenue-snow",
+   "file": "pictures/018-fifth-avenue-snow.jpg",
+   "kind": "shelf",
+   "caption": "Fifth Avenue after a snow storm, New York, 1905",
+   "credit": "Detroit Publishing Co. Library of Congress, public domain",
+   "tags": [
+    "shelf",
+    "snow",
+    "winter",
+    "city",
+    "new york",
+    "street",
+    "morning"
+   ],
+   "width": 900,
+   "height": 719,
+   "bytes": 95766
+  },
+  {
+   "id": "019-lighthouse-maine",
+   "file": "pictures/019-lighthouse-maine.jpg",
+   "kind": "shelf",
+   "caption": "Spring Point Ledge Lighthouse with sailing boats, South Portland, Maine, 1905",
+   "credit": "Library of Congress, public domain",
+   "tags": [
+    "shelf",
+    "lighthouse",
+    "sea",
+    "sailing",
+    "calm",
+    "coast",
+    "morning"
+   ],
+   "width": 900,
+   "height": 618,
+   "bytes": 61473
+  },
+  {
+   "id": "020-railway-nundah",
+   "file": "pictures/020-railway-nundah.jpg",
+   "kind": "shelf",
+   "caption": "Waiting for the train at Nundah railway station, Queensland, about 1910",
+   "credit": "State Library of Queensland, public domain",
+   "tags": [
+    "shelf",
+    "train",
+    "station",
+    "waiting",
+    "travel",
+    "morning",
+    "departure"
+   ],
+   "width": 900,
+   "height": 719,
+   "bytes": 72364
+  },
+  {
+   "id": "021-teapot",
+   "file": "pictures/021-teapot.jpg",
+   "kind": "object",
+   "caption": "A silver teapot with a wooden handle, 18th century",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "table",
+    "tea",
+    "silver",
+    "craft",
+    "home"
+   ],
+   "width": 900,
+   "height": 676,
+   "bytes": 31458
+  },
+  {
+   "id": "022-boot",
+   "file": "pictures/022-boot.jpg",
+   "kind": "object",
+   "caption": "A laced leather boot with a curved heel, late 18th century",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "wardrobe",
+    "shoes",
+    "leather",
+    "craft",
+    "walking"
+   ],
+   "width": 836,
+   "height": 900,
+   "bytes": 45426
+  },
+  {
+   "id": "023-coffee-cup",
+   "file": "pictures/023-coffee-cup.jpg",
+   "kind": "object",
+   "caption": "A porcelain coffee cup and saucer with a gilded border, 19th century",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "table",
+    "coffee",
+    "porcelain",
+    "morning",
+    "home"
+   ],
+   "width": 900,
+   "height": 618,
+   "bytes": 29869
+  },
+  {
+   "id": "024-straw-top-hat",
+   "file": "pictures/024-straw-top-hat.jpg",
+   "kind": "object",
+   "caption": "A woven straw top hat with a striped ribbon, 19th century",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "wardrobe",
+    "hat",
+    "straw",
+    "summer",
+    "craft"
+   ],
+   "width": 785,
+   "height": 900,
+   "bytes": 82844
+  },
+  {
+   "id": "025-candlestick-engraving",
+   "file": "pictures/025-candlestick-engraving.jpg",
+   "kind": "object",
+   "caption": "Engraved figures on the base of a silver candlestick, detail",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "silver",
+    "craft",
+    "engraving",
+    "home",
+    "detail"
+   ],
+   "width": 900,
+   "height": 690,
+   "bytes": 96636
+  },
+  {
+   "id": "026-inkstand",
+   "file": "pictures/026-inkstand.jpg",
+   "kind": "object",
+   "caption": "A silver inkstand on lion feet, with inkwell and pounce pot, 18th century",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "desk",
+    "writing",
+    "silver",
+    "letters",
+    "work",
+    "craft"
+   ],
+   "width": 900,
+   "height": 676,
+   "bytes": 40375
+  },
+  {
+   "id": "027-embroidered-purse",
+   "file": "pictures/027-embroidered-purse.jpg",
+   "kind": "object",
+   "caption": "An embroidered silk purse with tassels, 17th\u201318th century",
+   "credit": "The Metropolitan Museum of Art, public domain (CC0)",
+   "tags": [
+    "object",
+    "money",
+    "purse",
+    "textile",
+    "craft",
+    "wardrobe"
+   ],
+   "width": 900,
+   "height": 719,
+   "bytes": 76069
+  },
+  {
+   "id": "028-reading-room",
+   "file": "pictures/028-reading-room.jpg",
+   "kind": "shelf",
+   "caption": "The reading room of Widener Library, Harvard, 1920",
+   "credit": "Encyclopedia Americana, 1920. Public domain",
+   "tags": [
+    "shelf",
+    "library",
+    "reading",
+    "books",
+    "quiet",
+    "work",
+    "study"
+   ],
+   "width": 900,
+   "height": 554,
+   "bytes": 99664
+  },
+  {
+   "id": "029-algiers-harbor",
+   "file": "pictures/029-algiers-harbor.jpg",
+   "kind": "shelf",
+   "caption": "The harbour and the white city of Algiers, 1899",
+   "credit": "Photochrom print. Library of Congress, public domain",
+   "tags": [
+    "shelf",
+    "harbor",
+    "sea",
+    "city",
+    "mediterranean",
+    "travel",
+    "morning"
+   ],
+   "width": 900,
+   "height": 635,
+   "bytes": 143007
   }
  ]
 }

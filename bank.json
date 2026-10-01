@@ -1,0 +1,218 @@
+{
+ "version": 1,
+ "note": "Public-domain pictures for Your Times. Copy into an edition with the publishing tool (files: {\"img/x.jpg\": {\"artifact\": BANK_URL, \"path\": \"pictures/<id>.jpg\"}}). Every picture is public domain or CC0; print the credit under it.",
+ "pictures": [
+  {
+   "id": "001-flatiron",
+   "file": "pictures/001-flatiron.jpg",
+   "kind": "shelf",
+   "caption": "The Flatiron Building behind bare trees in snow, New York",
+   "credit": "Alfred Stieglitz, 1903. The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "shelf",
+    "city",
+    "winter",
+    "street",
+    "new york",
+    "evening",
+    "quiet"
+   ],
+   "width": 706,
+   "height": 900,
+   "bytes": 151745
+  },
+  {
+   "id": "002-tulum",
+   "file": "pictures/002-tulum.jpg",
+   "kind": "shelf",
+   "caption": "Palms and the Caribbean at Tulum, Quintana Roo",
+   "credit": "Photograph by Gary Todd, 2001. Wikimedia Commons, public domain",
+   "tags": [
+    "shelf",
+    "sea",
+    "palms",
+    "beach",
+    "mexico",
+    "summer",
+    "travel"
+   ],
+   "width": 900,
+   "height": 429,
+   "bytes": 62834
+  },
+  {
+   "id": "003-pillars",
+   "file": "pictures/003-pillars.jpg",
+   "kind": "sky",
+   "caption": "The Pillars of Creation in the Eagle Nebula, about 6,500 light-years away",
+   "credit": "NASA, ESA and the Hubble Heritage Team, 2014. Public domain",
+   "tags": [
+    "sky",
+    "space",
+    "nebula",
+    "night",
+    "stars"
+   ],
+   "width": 900,
+   "height": 889,
+   "bytes": 110580
+  },
+  {
+   "id": "004-shoe",
+   "file": "pictures/004-shoe.jpg",
+   "kind": "object",
+   "caption": "A leather shoe with a gilded strap, more than a thousand years old",
+   "credit": "The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "object",
+    "shoes",
+    "leather",
+    "wardrobe",
+    "craft"
+   ],
+   "width": 900,
+   "height": 691,
+   "bytes": 57732
+  },
+  {
+   "id": "005-watch",
+   "file": "pictures/005-watch.jpg",
+   "kind": "object",
+   "caption": "A pocket watch signed Anderson, London, about 1700",
+   "credit": "The Metropolitan Museum of Art, public domain",
+   "tags": [
+    "object",
+    "watch",
+    "time",
+    "craft",
+    "silver"
+   ],
+   "width": 800,
+   "height": 886,
+   "bytes": 105803
+  },
+  {
+   "id": "006-coffee",
+   "file": "pictures/006-coffee.jpg",
+   "kind": "shelf",
+   "caption": "A cup of coffee on a wooden table, Pikolo Espresso Bar",
+   "credit": "Photograph by Rachel Michetti, CC0 (public domain dedication)",
+   "tags": [
+    "shelf",
+    "morning",
+    "coffee",
+    "cafe",
+    "table",
+    "breakfast"
+   ],
+   "width": 600,
+   "height": 400,
+   "bytes": 44229
+  },
+  {
+   "id": "007-rocket",
+   "file": "pictures/007-rocket.jpg",
+   "kind": "shelf",
+   "caption": "A Falcon 9 rocket carrying DSCOVR lifts off from Cape Canaveral, 2015",
+   "credit": "SpaceX, released into the public domain",
+   "tags": [
+    "shelf",
+    "launch",
+    "rocket",
+    "ambition",
+    "sky",
+    "beginning"
+   ],
+   "width": 640,
+   "height": 427,
+   "bytes": 30169
+  },
+  {
+   "id": "008-astronaut",
+   "file": "pictures/008-astronaut.jpg",
+   "kind": "shelf",
+   "caption": "Astronaut Eileen Collins, the first woman to pilot and command a Space Shuttle",
+   "credit": "NASA, public domain",
+   "tags": [
+    "shelf",
+    "portrait",
+    "space",
+    "courage",
+    "women"
+   ],
+   "width": 512,
+   "height": 512,
+   "bytes": 42337
+  },
+  {
+   "id": "009-coins",
+   "file": "pictures/009-coins.jpg",
+   "kind": "object",
+   "caption": "Greek coins from Pompeii",
+   "credit": "Brooklyn Museum Collection, no known copyright restrictions",
+   "tags": [
+    "object",
+    "money",
+    "coins",
+    "antiquity",
+    "history"
+   ],
+   "width": 384,
+   "height": 303,
+   "bytes": 25136
+  },
+  {
+   "id": "010-hubble",
+   "file": "pictures/010-hubble.jpg",
+   "kind": "sky",
+   "caption": "The Hubble eXtreme Deep Field, the farthest view of the universe",
+   "credit": "NASA, ESA, public domain",
+   "tags": [
+    "sky",
+    "space",
+    "galaxies",
+    "night",
+    "perspective"
+   ],
+   "width": 900,
+   "height": 785,
+   "bytes": 108946
+  },
+  {
+   "id": "011-hopper",
+   "file": "pictures/011-hopper.jpg",
+   "kind": "shelf",
+   "caption": "Rear Admiral Grace Hopper, computer scientist, 1984",
+   "credit": "United States Navy, public domain",
+   "tags": [
+    "shelf",
+    "portrait",
+    "computing",
+    "work",
+    "women",
+    "history"
+   ],
+   "width": 512,
+   "height": 600,
+   "bytes": 57690
+  },
+  {
+   "id": "012-earth",
+   "file": "pictures/012-earth.jpg",
+   "kind": "sky",
+   "caption": "The Earth from space, Blue Marble Next Generation",
+   "credit": "NASA Earth Observatory, public domain",
+   "tags": [
+    "sky",
+    "earth",
+    "world",
+    "map",
+    "travel",
+    "perspective"
+   ],
+   "width": 900,
+   "height": 450,
+   "bytes": 58798
+  }
+ ]
+}
